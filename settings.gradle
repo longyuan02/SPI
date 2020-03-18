@@ -1,0 +1,4 @@
+rootProject.name='SPI'
+include ':app'
+include ':cinterface'
+include ':libinterface'
